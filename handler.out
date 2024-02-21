@@ -1,0 +1,20 @@
+mode: set
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:19.75,20.27 1 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:20.27,21.21 1 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:21.21,23.19 2 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:23.19,28.5 4 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:29.4,32.15 4 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:32.15,38.5 5 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:39.4,42.15 4 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:42.15,45.5 2 0
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:46.4,46.17 1 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:47.8,47.27 1 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:47.27,51.19 4 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:51.19,56.5 4 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:57.4,60.15 4 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:60.15,64.5 3 0
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:65.4,66.15 2 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:66.15,69.5 2 0
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:70.4,70.18 1 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:71.8,75.4 3 1
+github.com/tlbvb/weatherestapi/internal/handler/handler.go:76.7,81.3 4 1

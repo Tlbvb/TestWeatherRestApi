@@ -1,0 +1,14 @@
+mode: set
+github.com/tlbvb/weatherestapi/openweathermap/api.go:24.61,29.13 5 1
+github.com/tlbvb/weatherestapi/openweathermap/api.go:29.13,31.3 1 0
+github.com/tlbvb/weatherestapi/openweathermap/api.go:32.2,37.16 6 1
+github.com/tlbvb/weatherestapi/openweathermap/api.go:37.16,39.3 1 0
+github.com/tlbvb/weatherestapi/openweathermap/api.go:40.2,40.17 1 1
+github.com/tlbvb/weatherestapi/openweathermap/api.go:40.17,42.3 1 1
+github.com/tlbvb/weatherestapi/openweathermap/api.go:43.2,46.13 4 1
+github.com/tlbvb/weatherestapi/openweathermap/api.go:46.13,48.3 1 0
+github.com/tlbvb/weatherestapi/openweathermap/api.go:49.2,53.16 4 1
+github.com/tlbvb/weatherestapi/openweathermap/api.go:53.16,55.3 1 0
+github.com/tlbvb/weatherestapi/openweathermap/api.go:57.2,58.16 2 1
+github.com/tlbvb/weatherestapi/openweathermap/api.go:58.16,60.3 1 0
+github.com/tlbvb/weatherestapi/openweathermap/api.go:61.2,63.19 3 1
