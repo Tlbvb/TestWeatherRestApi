@@ -1,0 +1,1 @@
+Rest api that has only one endpoint /weather and accept GET and PUT request. Get request return the weather information of a particular city from a database, Put request updates the weather information of a city fetchin the information from the OpenWeatherMap api
